@@ -1,0 +1,18 @@
+/*Modelo de caixa*/
+
+.conteudo{
+	border: 1px solid red ;
+	/*padding-top: 20px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+
+	padding: 20px; - Todos os lados com esse valor
+	padding: 20px 15px; - 20px top,bottom. 15px right, left.
+	*/
+
+	padding: 20px 15px 10px 5px;
+	margin: 200px 20px 20px 20px;
+	/*Mesma configuracao de padding para margin*/
+	width: 200px;
+} 
